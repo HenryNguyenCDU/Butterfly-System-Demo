@@ -25,24 +25,26 @@ Run 'pod install' for the first time running in order to download the necessaril
 
 <!-- USAGE EXAMPLES -->
 ## Main screen:
-Download and list all orders**
+Download and list all orders
 
-(https://i.ibb.co/H2vyPqD/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-20-47.png)_
+<a href="https://i.ibb.co/H2vyPqD/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-20-47.png">
+
 
 ##Add order screen
 
-(https://i.ibb.co/Y8kwR2b/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-20-50.png)
+<a href="https://i.ibb.co/Y8kwR2b/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-20-50.png">
 
 The SupplierID is a numeric and Order Description, Delivery Note are text.
 The insert 10,000 orders button is used to create create 10,000 dummies order in order to test the performance of the application
 
 ##Item screen
 List items and invoices
-(https://i.ibb.co/fnQzsHx/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-21-16.png)
 
+<a href="https://i.ibb.co/fnQzsHx/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-21-16.png">
+ 
 ##Add Item screen
-
-(https://i.ibb.co/VSZj1Pz/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-21-19.png)
+ 
+<a href="https://i.ibb.co/VSZj1Pz/Simulator-Screen-Shot-i-Phone-11-Pro-2021-09-05-at-05-21-19.png">
 
 The insert 10,000 items button is used to create create 10,000 dummies items in order to test the performance as well.
 
